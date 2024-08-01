@@ -294,7 +294,7 @@ header a:hover {
 /* Centering content on the home page for screens up to 1024px wide */
 @media only screen and (max-width: 1285px) {
   #home .s-container {
-    width: 90%; /* Set width to 90% of the viewport */
+    width: 100%; /* Set width to 90% of the viewport */
     margin: 0 auto; /* Center align the container horizontally */
     text-align: center; /* Center align text within the container */
     justify-content: center;
